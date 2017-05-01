@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_806fe041aded7cfc89cc68ed79dead46df69cdb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cbd01b74d09dfea2dad13b183157194555a9a234">
+        <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d66294e355caf3c30e2e8cba60ae2bad9b9b40e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_01097ae65285e1f3e995e6f446a2c789cce5b9ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5c966c09f9557992169513f5faf3317c174830f6">
+        <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54ba82b90360ae9eb03328a17e1f606793e2afcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_5349029a08121460a4079997487c78702d255f97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_84b0dad2b04459870e8cf2e2b534c066fb90c538/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_e0470de1c98221bcddf5e77ac2af3e8a215e2468/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/406AD1816AD1745E/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_83f460c9eb23d274bd171d404a56e3cfd8f7041a/classes.dex" />
+    </item>
+
+</items>
