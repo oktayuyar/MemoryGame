@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="cbd01b74d09dfea2dad13b183157194555a9a234">
+        sha1="b4b93f00e1eb20e646e08b6a900b15a5f075527c">
         <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d66294e355caf3c30e2e8cba60ae2bad9b9b40e/classes.dex" />
     </item>
     <item
@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.0"
-        sha1="5c966c09f9557992169513f5faf3317c174830f6">
+        sha1="be27b790d9211c65b5604441684750bc649f0586">
         <dex dex="/home/oktay/AndroidStudioProjects/MemoryGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_54ba82b90360ae9eb03328a17e1f606793e2afcd/classes.dex" />
     </item>
     <item
